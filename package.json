@@ -1,0 +1,16 @@
+{
+  "name": "telegram_ip_sender",
+  "version": "1.0.0",
+  "description": "Replies with the IP of the Network its operated from.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JQLiFiCE",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "telegraf": "^4.7.0"
+  }
+}
